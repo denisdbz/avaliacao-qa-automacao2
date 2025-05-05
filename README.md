@@ -25,7 +25,7 @@ Este repositório contém testes automatizados de API e Frontend utilizando ferr
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/denisdbz/avaliacao-qa-automacao.git
+    git clone https://github.com/denisdbz/avaliacao-qa-automacao2.git
     ```
 
 2. Acesse o diretório do projeto:
